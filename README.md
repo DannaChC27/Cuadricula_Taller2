@@ -6,7 +6,7 @@ Proyecto desarrollado en Python que permite crear una cuadrícula interactiva y 
 * Mostrar las coordenadas seleccionadas.
 * Reiniciar la cuadrícula.
 * Salir del programa.
-## ¿como lo hace?
+## ¿Como lo hace?
 El programa solicita al usuario el tamaño de la cuadrícula, teniendo como condición que sea mayor o igual a 8. Posteriormente, permite seleccionar coordenadas indicando los valores de X e Y.
 Las posiciones seleccionadas se representan con un círculo lleno (●) y las que no han sido seleccionadas con un círculo vacío (○).
 
